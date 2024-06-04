@@ -1,0 +1,10 @@
+[
+    {
+        "nombre": "Estacionamiento Centro",
+        "cant_parcelas_autos": 50,
+        "cant_parcelas_motos": 20,
+        "coste_hora_auto": 10.0,
+        "coste_hora_moto": 5.0,
+        "autos": 
+    }
+]
